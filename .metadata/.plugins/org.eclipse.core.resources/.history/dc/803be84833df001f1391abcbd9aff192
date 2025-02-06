@@ -1,0 +1,82 @@
+package application;
+
+import java.io.Serializable;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
+
+public class User implements Serializable {
+    private static final long serialVersionUID = 1L;
+    private final String name;
+    private final int age;
+    private final Map<String, Integer> scores;
+
+    public User(String name, int age) {
+        this.name = name;
+        this.age = age;
+        this.scores = new HashMap<>();
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    /**
+     * Returns a defensive copy of the scores map, preventing external modification.
+     * @return A copy of the scores map.
+     */
+    public Map<String, Integer> getScores() {
+        return new HashMap<>(scores);
+    }
+
+
+    /**
+     * Sets the score for a specific game. The score is only updated if the given score is higher
+     * than the already stored score. Returns the updated score after updating.
+     * @param game The name of the game
+     * @param score The new score for the game.
+     * @return The updated score.
+     */
+     public int setScore(String game, int score) {
+         int updatedScore =  Math.max(scores.getOrDefault(game, 0), score);
+         scores.put(game, updatedScore);
+         return updatedScore;
+    }
+
+
+    /**
+     * Adds a score for a specific game, and stores both previous score and the new score
+     * @param game The name of the game.
+     * @param score The new score for the game.
+     */
+     public void addScore(String game, int score) {
+          scores.put(game, score);
+    }
+
+
+    /**
+     * Retrieves the score for a specific game, defaulting to 0 if no score is recorded.
+     * @param game The name of the game
+     * @return The score for the game. Returns 0 if no score is found.
+     */
+     public int getScore(String game) {
+        return scores.getOrDefault(game, 0);
+    }
+
+    /**
+     * Returns the string representation of this `User` object.
+     * @return The string representation of this `User` object.
+     */
+    @Override
+    public String toString() {
+        return "User{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", scores=" + scores +
+                '}';
+    }
+}
