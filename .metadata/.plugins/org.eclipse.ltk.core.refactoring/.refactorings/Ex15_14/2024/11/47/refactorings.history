@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;application.Main.java&apos; to &apos;PolygonMouseCheck.java&apos;&#x0D;&#x0A;- Original project: &apos;Ex15_14&apos;&#x0D;&#x0A;- Original element: &apos;application.Main.java&apos;&#x0D;&#x0A;- Renamed element: &apos;application.PolygonMouseCheck.java&apos;" description="Rename compilation unit &apos;Main.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;application{Main.java" name="PolygonMouseCheck.java" references="false" stamp="1731923030312" version="1.0"/>
+</session>
