@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="Circle"/>
+		<item value="Person"/>
+		<item value="Student"/>
+		<item value="Test"/>
+		<item value="A02"/>
+		<item value="B02"/>
+		<item value="A"/>
+		<item value="T"/>
+		<item value="ShowErrors"/>
+		<item value="rods"/>
+		<item value="moveDisk"/>
+		<item value="isPresent"/>
+		<item value="lookupButton"/>
+		<item value="towerOfHanoi"/>
+		<item value="step"/>
+	</list>
+	<list key="replacehistory">
+		<item value="Circle11"/>
+		<item value="Person01"/>
+		<item value="Student01"/>
+		<item value="Test03"/>
+		<item value="A03"/>
+		<item value="B03"/>
+		<item value="Ao2"/>
+		<item value="Circle2"/>
+		<item value="T1"/>
+		<item value="CircleObject"/>
+		<item value="Test3"/>
+		<item value="Test2"/>
+		<item value="Test1"/>
+		<item value="CircleD"/>
+		<item value="ShowErrors2"/>
+	</list>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="Disk"/>
+		<list key="findhistory">
+			<item value="disk"/>
+			<item value="di"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="465"/>
+		<item key="DIALOG_Y_ORIGIN" value="96"/>
+		<item key="DIALOG_WIDTH" value="363"/>
+		<item key="DIALOG_HEIGHT" value="406"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"/>
+	</section>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="ClockPane1"/>
+			<item value="A"/>
+			<item value="a"/>
+		</list>
+	</section>
+</section>
