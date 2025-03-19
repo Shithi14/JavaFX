@@ -1,0 +1,29 @@
+package application;
+import javafx.application.Application;
+import javafx.stage.Stage;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.layout.Pane;
+import javafx.scene.layout.StackPane;
+import javafx.scene.shape.Circle;
+import javafx.scene.paint.Color;
+import javafx.geometry.Pos;
+
+public class practise extends Application{
+	@Override
+	public void start(Stage primarystage) {
+		Button button=new Button("Ok");
+		StackPane 
+		pan.getChildren().add(button);
+		Scene sc=new Scene(pan,200,250);
+		primarystage.setTitle("Hello");
+		primarystage.setScene(sc);
+		primarystage.show();
+	}
+	public static void main(String args[]){
+		launch(args);
+		
+		
+	}
+}
+
