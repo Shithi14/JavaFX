@@ -1,0 +1,13 @@
+package application;
+import javafx.application.Appllication;
+
+
+public class pp extends Appllicaion{
+	@Override
+	public void start(Stage primarystage) {
+		
+	}
+	
+	
+	
+}
