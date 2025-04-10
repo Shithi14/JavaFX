@@ -1,4 +1,4 @@
-aaaaaaa
+
  <p align="center">
   <a href="https://github.com/Shithi14">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=2000&color=FFD700&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile!" alt="Welcome to My GitHub Profile">
@@ -30,7 +30,7 @@ aaaaaaa
 </p>
 
 **👋 Hello!**  
-I am **Shithi Rani Roy**, a dedicated **Programmer** and **Innovator** with a keen interest in **Java**, **Python**, and **Machine Learning**. I am currently working on object detection projects and exploring AI-driven solutions.
+I am **Shithi Rani Roy**, a dedicated **Programmer** ,**Wed Devloper**  and **Innovator** with a keen interest in **Java**, **Python**, and **Machine Learning**. I am currently working on object detection projects and exploring AI-driven solutions.
 
 ---
 
