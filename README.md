@@ -30,7 +30,7 @@
 </p>
 
 **👋 Hello!**  
-I am **Shithi Rani Roy**, a dedicated **Programmer** and **Innovator** with a keen interest in **Java**, **Python**, and **Machine Learning**. I am currently working on object detection projects and exploring AI-driven solutions.
+I am **Shithi Rani Roy**, a dedicated **Programmer** ,**Wed Devloper**  and **Innovator** with a keen interest in **Java**, **Python**, and **Machine Learning**. I am currently working on object detection projects and exploring AI-driven solutions.
 
 ---
 
