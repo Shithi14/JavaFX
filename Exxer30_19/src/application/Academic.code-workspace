@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "E:/Md An Nahian Prince/Picture's/My pictures/My Document/CSE-14/Programming/VS CODE/Academic"
+		},
+		{
+			"path": "E:/Md An Nahian Prince/Picture's/My pictures/My Document/CSE-14/Programming/VS CODE/Academic/Python"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.py": "python",
+			"iostream": "cpp",
+			"strstream": "cpp",
+			"cmath": "cpp"
+		}
+	}
+}
