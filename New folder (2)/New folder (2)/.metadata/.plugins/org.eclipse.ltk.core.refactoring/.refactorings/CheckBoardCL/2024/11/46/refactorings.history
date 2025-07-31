@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CheckerboardApp.java&apos; to &apos;CheckBoardBW/src/application&apos;&#x0D;&#x0A;- Original project: &apos;CheckBoardCL&apos;&#x0D;&#x0A;- Destination element: &apos;CheckBoardBW/src/application&apos;&#x0D;&#x0A;- Original element: &apos;application.CheckerboardApp.java&apos;" description="Copy compilation unit" destination="=CheckBoardBW/src&lt;application" element1="/src&lt;application{CheckerboardApp.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1731299495763" units="1" version="1.0"/>
+</session>
