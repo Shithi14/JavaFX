@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.fx.ide.jdt.ui.javafx"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.fx.ide"/>
+		</list>
+		<section name="NewWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="0"/>
+			<item key="DIALOG_Y_ORIGIN" value="0"/>
+			<item key="DIALOG_WIDTH" value="613"/>
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"/>
+		</section>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\ASUS\eclipse-workspace\OfflineGames36\OfflineGames36"/>
+			<item value="D:\eclipse-workspace\OfflineGames36\OfflineGames36"/>
+			<item value="E:\Md An Nahian Prince\Picture&apos;s\My pictures\My Document\CSE-14\ACADEMIC\SEMESTER 2-1\OOP\OfflineGames34\OfflineGames34"/>
+			<item value="D:\eclipse-workspace\Exer30_199"/>
+			<item value="D:\eclipse-workspace\Exer30_17"/>
+			<item value="D:\eclipse-workspace\Ex30_5"/>
+			<item value="D:\eclipse-workspace\Ex30_4"/>
+			<item value="C:\Users\ASUS\eclipse-workspace\OfflineGames26"/>
+			<item value="C:\Users\ASUS\eclipse-workspace\BrickBreaker10"/>
+			<item value="C:\Users\ASUS\eclipse-workspace\Minesweeper"/>
+			<item value="C:\Users\ASUS\eclipse-workspace\TowerOfHanoi3"/>
+			<item value="C:\Users\ASUS\eclipse-workspace\BarChartProject\src\application"/>
+			<item value="C:\Users\ASUS\eclipse-workspace\1st MID\CH -14 JavaFx Basic\14.2 TicTacToe"/>
+			<item value="C:\Users\ASUS\eclipse-workspace\1st MID\CH -14 JavaFx Basic\14_29 BeanMachine7 - Copy"/>
+			<item value="C:\Users\ASUS\eclipse-workspace\1st MID\CH -14 JavaFx Basic\14.29 BeanMachine7"/>
+			<item value="C:\Users\ASUS\eclipse-workspace\1st MID"/>
+			<item value="C:\Users\ASUS\eclipse-workspace\Hilbert-Curve-main"/>
+			<item value="C:\Users\ASUS\eclipse-workspace\TurboTypeRacer-main"/>
+			<item value="C:\Users\ASUS\eclipse-workspace\JavaFX-Racing-Game-master"/>
+		</list>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="338"/>
+			<item key="DIALOG_Y_ORIGIN" value="22"/>
+			<item key="DIALOG_WIDTH" value="855"/>
+			<item key="DIALOG_HEIGHT" value="608"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"/>
+		</section>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="330"/>
+		<item key="DIALOG_Y_ORIGIN" value="129"/>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="true"/>
+		<item key="DIALOG_WIDTH" value="575"/>
+		<item key="DIALOG_HEIGHT" value="398"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"/>
+	</section>
+</section>
